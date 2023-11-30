@@ -1,0 +1,33 @@
+form{
+  margin: 50px;
+  border: 1px solid #ccc;
+  padding: 50px;
+}
+label{
+  display: block;
+  margin-bottom: 10px;
+}
+
+#radiolabel{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.checkbox{
+  /* background-color: tan; */
+  display: flex;
+}
+.checkbox label{
+  margin-top: 6px;
+}
+
+fieldset{
+  border:  1px solid #ccc;
+}
+
+#favcolor{
+  width: 100%;
+  outline: 0;
+  border: 2px dashed #ccc;
+}
+
